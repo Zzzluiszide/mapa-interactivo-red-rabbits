@@ -67,6 +67,11 @@
     "photo": "https://raw.githubusercontent.com/Zzzluiszide/mapa-interactivo-red-rabbits/main/photos/RR-003.jpg?t=1774007625571",
     "history": [
       {
+        "action": "Datos actualizados",
+        "date": "2026-03-20",
+        "ok": true
+      },
+      {
         "action": "VENCIDO — pendiente renovación",
         "date": "2026-01-20",
         "ok": false
