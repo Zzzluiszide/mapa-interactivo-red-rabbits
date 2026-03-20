@@ -63,12 +63,21 @@
         },
         {
           "id": "RR-003",
-          "status": "label_damaged",
+          "status": "damaged",
           "expiry": "2026-03-10",
           "nextCheck": "2026-03-10",
-          "by": "M.P.",
-          "photo": "https://raw.githubusercontent.com/Zzzluiszide/mapa-interactivo-red-rabbits/main/photos/RR-003.jpg?t=1774010580558",
+          "by": "Mp",
+          "photo": "https://raw.githubusercontent.com/Zzzluiszide/mapa-interactivo-red-rabbits/main/photos/RR-003.jpg?t=1774010648560",
           "verifications": [
+            {
+              "result": "rejected",
+              "by": "Mp",
+              "notes": "",
+              "date": "2026-03-20T12:44:08.560Z",
+              "gps": null,
+              "month": "2026-03",
+              "photo": "https://raw.githubusercontent.com/Zzzluiszide/mapa-interactivo-red-rabbits/main/photos/RR-003.jpg?t=1774010648560"
+            },
             {
               "result": "label_damaged",
               "by": "M.P.",
@@ -80,6 +89,11 @@
             }
           ],
           "history": [
+            {
+              "action": "Verificación: No aprobado — Mp",
+              "date": "2026-03-20",
+              "ok": false
+            },
             {
               "action": "Verificación: Etiqueta dañada — M.P.",
               "date": "2026-03-20",
