@@ -1,0 +1,192 @@
+[
+  {
+    "id": "RR-001",
+    "label": "Nave A – Entrada principal",
+    "lat": 25.58580,
+    "lng": -103.38965,
+    "status": "ok",
+    "expiry": "2026-08-14",
+    "nextCheck": "2026-04-10",
+    "by": "Carlos Mendoza",
+    "photo": null,
+    "history": [
+      { "action": "Verificación aprobada", "date": "2025-10-14", "ok": true },
+      { "action": "Verificación aprobada", "date": "2025-04-14", "ok": true },
+      { "action": "Instalación inicial",   "date": "2024-10-01", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-002",
+    "label": "Nave A – Pasillo central",
+    "lat": 25.58558,
+    "lng": -103.38922,
+    "status": "warn",
+    "expiry": "2026-04-30",
+    "nextCheck": "2026-03-28",
+    "by": "Ana Torres",
+    "photo": null,
+    "history": [
+      { "action": "Verificación aprobada", "date": "2025-10-30", "ok": true },
+      { "action": "Observación menor",     "date": "2025-04-30", "ok": false },
+      { "action": "Instalación inicial",   "date": "2024-09-15", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-003",
+    "label": "Nave B – Almacén este",
+    "lat": 25.58532,
+    "lng": -103.38872,
+    "status": "expired",
+    "expiry": "2026-01-20",
+    "nextCheck": "2026-01-20",
+    "by": "Luis Ramírez",
+    "photo": null,
+    "history": [
+      { "action": "VENCIDO — pendiente renovación", "date": "2026-01-20", "ok": false },
+      { "action": "Verificación aprobada",           "date": "2025-07-20", "ok": true },
+      { "action": "Instalación inicial",             "date": "2024-07-01", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-004",
+    "label": "Nave B – Salida emergencia sur",
+    "lat": 25.58500,
+    "lng": -103.38952,
+    "status": "ok",
+    "expiry": "2026-11-05",
+    "nextCheck": "2026-05-20",
+    "by": "Sara Villanueva",
+    "photo": null,
+    "history": [
+      { "action": "Verificación aprobada", "date": "2025-11-05", "ok": true },
+      { "action": "Verificación aprobada", "date": "2025-05-05", "ok": true },
+      { "action": "Instalación inicial",   "date": "2024-11-01", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-005",
+    "label": "Oficinas – Planta baja",
+    "lat": 25.58562,
+    "lng": -103.38845,
+    "status": "warn",
+    "expiry": "2026-04-15",
+    "nextCheck": "2026-03-25",
+    "by": "Jorge Castillo",
+    "photo": null,
+    "history": [
+      { "action": "Verificación aprobada", "date": "2025-10-15", "ok": true },
+      { "action": "Instalación inicial",   "date": "2025-04-10", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-006",
+    "label": "Oficinas – Piso 2 escalera",
+    "lat": 25.58598,
+    "lng": -103.38905,
+    "status": "ok",
+    "expiry": "2026-09-22",
+    "nextCheck": "2026-05-01",
+    "by": "Patricia León",
+    "photo": null,
+    "history": [
+      { "action": "Verificación aprobada", "date": "2025-09-22", "ok": true },
+      { "action": "Verificación aprobada", "date": "2025-03-22", "ok": true },
+      { "action": "Instalación inicial",   "date": "2024-09-22", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-007",
+    "label": "Patio de maniobras norte",
+    "lat": 25.58612,
+    "lng": -103.38858,
+    "status": "expired",
+    "expiry": "2026-02-10",
+    "nextCheck": "2026-02-10",
+    "by": "Miguel Á. Rosas",
+    "photo": null,
+    "history": [
+      { "action": "VENCIDO — requiere atención urgente", "date": "2026-02-10", "ok": false },
+      { "action": "Verificación aprobada",               "date": "2025-08-10", "ok": true },
+      { "action": "Instalación inicial",                 "date": "2025-02-10", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-008",
+    "label": "Cuarto de máquinas",
+    "lat": 25.58547,
+    "lng": -103.38995,
+    "status": "ok",
+    "expiry": "2026-12-01",
+    "nextCheck": "2026-06-15",
+    "by": "Diana Fuentes",
+    "photo": null,
+    "history": [
+      { "action": "Verificación aprobada", "date": "2025-12-01", "ok": true },
+      { "action": "Verificación aprobada", "date": "2025-06-01", "ok": true },
+      { "action": "Instalación inicial",   "date": "2025-01-10", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-009",
+    "label": "Comedor – Acceso norte",
+    "lat": 25.58618,
+    "lng": -103.38942,
+    "status": "ok",
+    "expiry": "2026-10-18",
+    "nextCheck": "2026-04-18",
+    "by": "Roberto Salas",
+    "photo": null,
+    "history": [
+      { "action": "Verificación aprobada", "date": "2025-10-18", "ok": true },
+      { "action": "Instalación inicial",   "date": "2025-04-01", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-010",
+    "label": "Zona de carga – Andén 3",
+    "lat": 25.58486,
+    "lng": -103.38888,
+    "status": "warn",
+    "expiry": "2026-05-05",
+    "nextCheck": "2026-04-01",
+    "by": "Fernanda Cruz",
+    "photo": null,
+    "history": [
+      { "action": "Próximo a vencer",      "date": "2026-02-05", "ok": false },
+      { "action": "Verificación aprobada", "date": "2025-11-05", "ok": true },
+      { "action": "Instalación inicial",   "date": "2025-05-05", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-011",
+    "label": "Subestación eléctrica",
+    "lat": 25.58628,
+    "lng": -103.38878,
+    "status": "expired",
+    "expiry": "2026-01-08",
+    "nextCheck": "2026-01-08",
+    "by": "Héctor Morales",
+    "photo": null,
+    "history": [
+      { "action": "VENCIDO",               "date": "2026-01-08", "ok": false },
+      { "action": "Verificación aprobada", "date": "2025-07-08", "ok": true },
+      { "action": "Instalación inicial",   "date": "2024-07-08", "ok": true }
+    ]
+  },
+  {
+    "id": "RR-012",
+    "label": "Entrada principal – Caseta",
+    "lat": 25.58572,
+    "lng": -103.39018,
+    "status": "ok",
+    "expiry": "2026-07-30",
+    "nextCheck": "2026-04-30",
+    "by": "Claudia Herrera",
+    "photo": null,
+    "history": [
+      { "action": "Verificación aprobada", "date": "2025-07-30", "ok": true },
+      { "action": "Verificación aprobada", "date": "2025-01-30", "ok": true },
+      { "action": "Instalación inicial",   "date": "2024-07-30", "ok": true }
+    ]
+  }
+]
