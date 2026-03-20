@@ -2,7 +2,7 @@
   {
     "id": "RR-001",
     "label": "Nave A – Entrada principal",
-    "lat": 25.58580,
+    "lat": 25.5858,
     "lng": -103.38965,
     "status": "ok",
     "expiry": "2026-08-14",
@@ -10,9 +10,21 @@
     "by": "Carlos Mendoza",
     "photo": null,
     "history": [
-      { "action": "Verificación aprobada", "date": "2025-10-14", "ok": true },
-      { "action": "Verificación aprobada", "date": "2025-04-14", "ok": true },
-      { "action": "Instalación inicial",   "date": "2024-10-01", "ok": true }
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-10-14",
+        "ok": true
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-04-14",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2024-10-01",
+        "ok": true
+      }
     ]
   },
   {
@@ -26,9 +38,21 @@
     "by": "Ana Torres",
     "photo": null,
     "history": [
-      { "action": "Verificación aprobada", "date": "2025-10-30", "ok": true },
-      { "action": "Observación menor",     "date": "2025-04-30", "ok": false },
-      { "action": "Instalación inicial",   "date": "2024-09-15", "ok": true }
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-10-30",
+        "ok": true
+      },
+      {
+        "action": "Observación menor",
+        "date": "2025-04-30",
+        "ok": false
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2024-09-15",
+        "ok": true
+      }
     ]
   },
   {
@@ -40,17 +64,29 @@
     "expiry": "2026-01-20",
     "nextCheck": "2026-01-20",
     "by": "Luis Ramírez",
-    "photo": null,
+    "photo": "https://raw.githubusercontent.com/Zzzluiszide/mapa-interactivo-red-rabbits/main/photos/RR-003.jpg?t=1774007625571",
     "history": [
-      { "action": "VENCIDO — pendiente renovación", "date": "2026-01-20", "ok": false },
-      { "action": "Verificación aprobada",           "date": "2025-07-20", "ok": true },
-      { "action": "Instalación inicial",             "date": "2024-07-01", "ok": true }
+      {
+        "action": "VENCIDO — pendiente renovación",
+        "date": "2026-01-20",
+        "ok": false
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-07-20",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2024-07-01",
+        "ok": true
+      }
     ]
   },
   {
     "id": "RR-004",
     "label": "Nave B – Salida emergencia sur",
-    "lat": 25.58500,
+    "lat": 25.585,
     "lng": -103.38952,
     "status": "ok",
     "expiry": "2026-11-05",
@@ -58,9 +94,21 @@
     "by": "Sara Villanueva",
     "photo": null,
     "history": [
-      { "action": "Verificación aprobada", "date": "2025-11-05", "ok": true },
-      { "action": "Verificación aprobada", "date": "2025-05-05", "ok": true },
-      { "action": "Instalación inicial",   "date": "2024-11-01", "ok": true }
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-11-05",
+        "ok": true
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-05-05",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2024-11-01",
+        "ok": true
+      }
     ]
   },
   {
@@ -74,8 +122,16 @@
     "by": "Jorge Castillo",
     "photo": null,
     "history": [
-      { "action": "Verificación aprobada", "date": "2025-10-15", "ok": true },
-      { "action": "Instalación inicial",   "date": "2025-04-10", "ok": true }
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-10-15",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2025-04-10",
+        "ok": true
+      }
     ]
   },
   {
@@ -89,9 +145,21 @@
     "by": "Patricia León",
     "photo": null,
     "history": [
-      { "action": "Verificación aprobada", "date": "2025-09-22", "ok": true },
-      { "action": "Verificación aprobada", "date": "2025-03-22", "ok": true },
-      { "action": "Instalación inicial",   "date": "2024-09-22", "ok": true }
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-09-22",
+        "ok": true
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-03-22",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2024-09-22",
+        "ok": true
+      }
     ]
   },
   {
@@ -105,9 +173,21 @@
     "by": "Miguel Á. Rosas",
     "photo": null,
     "history": [
-      { "action": "VENCIDO — requiere atención urgente", "date": "2026-02-10", "ok": false },
-      { "action": "Verificación aprobada",               "date": "2025-08-10", "ok": true },
-      { "action": "Instalación inicial",                 "date": "2025-02-10", "ok": true }
+      {
+        "action": "VENCIDO — requiere atención urgente",
+        "date": "2026-02-10",
+        "ok": false
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-08-10",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2025-02-10",
+        "ok": true
+      }
     ]
   },
   {
@@ -121,9 +201,21 @@
     "by": "Diana Fuentes",
     "photo": null,
     "history": [
-      { "action": "Verificación aprobada", "date": "2025-12-01", "ok": true },
-      { "action": "Verificación aprobada", "date": "2025-06-01", "ok": true },
-      { "action": "Instalación inicial",   "date": "2025-01-10", "ok": true }
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-12-01",
+        "ok": true
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-06-01",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2025-01-10",
+        "ok": true
+      }
     ]
   },
   {
@@ -137,8 +229,16 @@
     "by": "Roberto Salas",
     "photo": null,
     "history": [
-      { "action": "Verificación aprobada", "date": "2025-10-18", "ok": true },
-      { "action": "Instalación inicial",   "date": "2025-04-01", "ok": true }
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-10-18",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2025-04-01",
+        "ok": true
+      }
     ]
   },
   {
@@ -152,9 +252,21 @@
     "by": "Fernanda Cruz",
     "photo": null,
     "history": [
-      { "action": "Próximo a vencer",      "date": "2026-02-05", "ok": false },
-      { "action": "Verificación aprobada", "date": "2025-11-05", "ok": true },
-      { "action": "Instalación inicial",   "date": "2025-05-05", "ok": true }
+      {
+        "action": "Próximo a vencer",
+        "date": "2026-02-05",
+        "ok": false
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-11-05",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2025-05-05",
+        "ok": true
+      }
     ]
   },
   {
@@ -168,9 +280,21 @@
     "by": "Héctor Morales",
     "photo": null,
     "history": [
-      { "action": "VENCIDO",               "date": "2026-01-08", "ok": false },
-      { "action": "Verificación aprobada", "date": "2025-07-08", "ok": true },
-      { "action": "Instalación inicial",   "date": "2024-07-08", "ok": true }
+      {
+        "action": "VENCIDO",
+        "date": "2026-01-08",
+        "ok": false
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-07-08",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2024-07-08",
+        "ok": true
+      }
     ]
   },
   {
@@ -184,9 +308,21 @@
     "by": "Claudia Herrera",
     "photo": null,
     "history": [
-      { "action": "Verificación aprobada", "date": "2025-07-30", "ok": true },
-      { "action": "Verificación aprobada", "date": "2025-01-30", "ok": true },
-      { "action": "Instalación inicial",   "date": "2024-07-30", "ok": true }
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-07-30",
+        "ok": true
+      },
+      {
+        "action": "Verificación aprobada",
+        "date": "2025-01-30",
+        "ok": true
+      },
+      {
+        "action": "Instalación inicial",
+        "date": "2024-07-30",
+        "ok": true
+      }
     ]
   }
 ]
