@@ -78,28 +78,6 @@
   ],
   "rabbits": [
     {
-      "id": "r1",
-      "code": "RR-001",
-      "equip_id": "e1",
-      "status": "ok",
-      "by": "Carlos Mendoza",
-      "expiry": "2026-08-14",
-      "nextCheck": "2026-04-10",
-      "attr_name": "Presión",
-      "attr_val": "150",
-      "attr_unit": "psi",
-      "description": "Extinguidor CO2 en prensa principal",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2024-10-01",
-          "ok": true
-        }
-      ]
-    },
-    {
       "id": "r2",
       "code": "RR-002",
       "equip_id": "e1",
