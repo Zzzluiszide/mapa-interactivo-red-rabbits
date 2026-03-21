@@ -7,13 +7,6 @@
       "py": 22
     }
   ],
-  "subgroups": [
-    {
-      "id": "sg9",
-      "name": "AGV-01",
-      "icon": "🚗",
-      "group_id": "g5"
-    }
-  ],
+  "subgroups": [],
   "rabbits": []
 }
