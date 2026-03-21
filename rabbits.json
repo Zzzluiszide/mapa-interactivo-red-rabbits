@@ -27,12 +27,6 @@
   ],
   "subgroups": [
     {
-      "id": "sg4",
-      "name": "Prensa 2",
-      "icon": "🔧",
-      "group_id": "g2"
-    },
-    {
       "id": "sg5",
       "name": "Bracket 2",
       "icon": "🔩",
