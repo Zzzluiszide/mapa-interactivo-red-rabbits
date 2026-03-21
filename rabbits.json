@@ -1,150 +1,32 @@
 {
-  "areas": [
-    {
-      "id": "nave-a",
-      "name": "Nave A",
-      "color": "#3B82F6"
-    },
-    {
-      "id": "nave-b",
-      "name": "Nave B",
-      "color": "#8B5CF6"
-    },
-    {
-      "id": "almacen",
-      "name": "Almacén",
-      "color": "#F97316"
-    },
-    {
-      "id": "oficinas",
-      "name": "Oficinas",
-      "color": "#22C55E"
-    }
-  ],
   "groups": [
-    {
-      "id": "g2",
-      "name": "Isla 2",
-      "area_id": "nave-a",
-      "px": 45,
-      "py": 30
-    },
-    {
-      "id": "g5",
-      "name": "Isla 5",
-      "area_id": "oficinas",
-      "px": 75,
-      "py": 25
-    }
+    { "id": "g1", "name": "Isla 1", "px": 22, "py": 35 },
+    { "id": "g2", "name": "Isla 2", "px": 50, "py": 28 },
+    { "id": "g3", "name": "Isla 3", "px": 72, "py": 55 },
+    { "id": "g4", "name": "Isla 4", "px": 35, "py": 68 },
+    { "id": "g5", "name": "Isla 5", "px": 78, "py": 22 }
   ],
-  "equips": [
-    {
-      "id": "e3",
-      "name": "Palmera 1",
-      "icon": "🌴",
-      "group_id": "g2"
-    },
-    {
-      "id": "e4",
-      "name": "Prensa 2",
-      "icon": "🔧",
-      "group_id": "g2"
-    },
-    {
-      "id": "e8",
-      "name": "AGV-01",
-      "icon": "🚗",
-      "group_id": "g5"
-    }
+  "subgroups": [
+    { "id": "sg1",  "name": "Prensa 1",    "icon": "🔧", "group_id": "g1" },
+    { "id": "sg2",  "name": "Bracket 1",   "icon": "🔩", "group_id": "g1" },
+    { "id": "sg3",  "name": "Palmera 1",   "icon": "🌴", "group_id": "g1" },
+    { "id": "sg4",  "name": "Prensa 2",    "icon": "🔧", "group_id": "g2" },
+    { "id": "sg5",  "name": "Bracket 2",   "icon": "🔩", "group_id": "g2" },
+    { "id": "sg6",  "name": "Estructura",  "icon": "🏗️", "group_id": "g3" },
+    { "id": "sg7",  "name": "Panel EL",    "icon": "⚡",  "group_id": "g3" },
+    { "id": "sg8",  "name": "Rack ALM",    "icon": "📦", "group_id": "g4" },
+    { "id": "sg9",  "name": "AGV-01",      "icon": "🚗", "group_id": "g5" }
   ],
   "rabbits": [
-    {
-      "id": "r4",
-      "code": "RR-004",
-      "equip_id": "e3",
-      "status": "not_found",
-      "by": "Luis Ramírez",
-      "expiry": "2026-04-15",
-      "nextCheck": "2026-03-25",
-      "attr_name": "Voltaje",
-      "attr_val": "220",
-      "attr_unit": "V",
-      "description": "No localizado en última inspección",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "No encontrado en ronda",
-          "date": "2026-01-15",
-          "ok": false
-        }
-      ]
-    },
-    {
-      "id": "r5",
-      "code": "RR-005",
-      "equip_id": "e3",
-      "status": "ok",
-      "by": "Luis Ramírez",
-      "expiry": "2026-09-22",
-      "nextCheck": "2026-05-01",
-      "attr_name": "Voltaje",
-      "attr_val": "220",
-      "attr_unit": "V",
-      "description": "",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2024-09-22",
-          "ok": true
-        }
-      ]
-    },
-    {
-      "id": "r6",
-      "code": "RR-006",
-      "equip_id": "e4",
-      "status": "label_damaged",
-      "by": "Sara Villanueva",
-      "expiry": "2026-07-30",
-      "nextCheck": "2026-04-30",
-      "attr_name": "Presión",
-      "attr_val": "140",
-      "attr_unit": "psi",
-      "description": "Etiqueta roja dañada por calor",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Etiqueta dañada detectada",
-          "date": "2026-02-10",
-          "ok": false
-        }
-      ]
-    },
-    {
-      "id": "r10",
-      "code": "RR-010",
-      "equip_id": "e8",
-      "status": "ok",
-      "by": "Fernanda Cruz",
-      "expiry": "2026-07-01",
-      "nextCheck": "2026-04-15",
-      "attr_name": "Velocidad",
-      "attr_val": "3.5",
-      "attr_unit": "m/s",
-      "description": "AGV zona de carga",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2025-03-01",
-          "ok": true
-        }
-      ]
-    }
+    { "id": "r1",  "code": "RR-001", "sg_id": "sg1", "status": "ok",            "by": "Carlos Mendoza",  "expiry": "2026-08-14", "nextCheck": "2026-04-10", "attr_name": "Presión",   "attr_val": "150", "attr_unit": "psi", "description": "Extinguidor CO2",        "photo": null, "verifications": [], "history": [{"action":"Instalación inicial","date":"2024-10-01","ok":true}] },
+    { "id": "r2",  "code": "RR-002", "sg_id": "sg1", "status": "damaged",       "by": "Carlos Mendoza",  "expiry": "2026-03-10", "nextCheck": "2026-03-10", "attr_name": "Presión",   "attr_val": "80",  "attr_unit": "psi", "description": "Presión baja",           "photo": null, "verifications": [], "history": [{"action":"Daño detectado","date":"2026-02-01","ok":false}] },
+    { "id": "r3",  "code": "RR-003", "sg_id": "sg2", "status": "ok",            "by": "Ana Torres",      "expiry": "2026-11-05", "nextCheck": "2026-05-20", "attr_name": "",          "attr_val": "",    "attr_unit": "",    "description": "",                       "photo": null, "verifications": [], "history": [{"action":"Instalación inicial","date":"2024-11-01","ok":true}] },
+    { "id": "r4",  "code": "RR-004", "sg_id": "sg3", "status": "not_found",     "by": "Luis Ramírez",    "expiry": "2026-04-15", "nextCheck": "2026-03-25", "attr_name": "Voltaje",   "attr_val": "220", "attr_unit": "V",   "description": "No localizado",          "photo": null, "verifications": [], "history": [{"action":"No encontrado","date":"2026-01-15","ok":false}] },
+    { "id": "r5",  "code": "RR-005", "sg_id": "sg4", "status": "ok",            "by": "Luis Ramírez",    "expiry": "2026-09-22", "nextCheck": "2026-05-01", "attr_name": "Voltaje",   "attr_val": "220", "attr_unit": "V",   "description": "",                       "photo": null, "verifications": [], "history": [{"action":"Instalación inicial","date":"2024-09-22","ok":true}] },
+    { "id": "r6",  "code": "RR-006", "sg_id": "sg5", "status": "label_damaged", "by": "Sara Villanueva", "expiry": "2026-07-30", "nextCheck": "2026-04-30", "attr_name": "Presión",   "attr_val": "140", "attr_unit": "psi", "description": "Etiqueta dañada",       "photo": null, "verifications": [], "history": [{"action":"Etiqueta dañada","date":"2026-02-10","ok":false}] },
+    { "id": "r7",  "code": "RR-007", "sg_id": "sg6", "status": "ok",            "by": "Jorge Castillo",  "expiry": "2026-12-01", "nextCheck": "2026-06-15", "attr_name": "",          "attr_val": "",    "attr_unit": "",    "description": "",                       "photo": null, "verifications": [], "history": [{"action":"Instalación inicial","date":"2025-01-10","ok":true}] },
+    { "id": "r8",  "code": "RR-008", "sg_id": "sg7", "status": "duplicate",     "by": "Patricia León",   "expiry": "2026-10-18", "nextCheck": "2026-04-18", "attr_name": "Voltaje",   "attr_val": "480", "attr_unit": "V",   "description": "ID dup con RR-014",     "photo": null, "verifications": [], "history": [{"action":"ID duplicado","date":"2026-01-20","ok":false}] },
+    { "id": "r9",  "code": "RR-009", "sg_id": "sg8", "status": "ok",            "by": "Roberto Salas",   "expiry": "2026-08-05", "nextCheck": "2026-04-01", "attr_name": "",          "attr_val": "",    "attr_unit": "",    "description": "",                       "photo": null, "verifications": [], "history": [{"action":"Instalación inicial","date":"2025-05-05","ok":true}] },
+    { "id": "r10", "code": "RR-010", "sg_id": "sg9", "status": "ok",            "by": "Fernanda Cruz",   "expiry": "2026-07-01", "nextCheck": "2026-04-15", "attr_name": "Velocidad", "attr_val": "3.5", "attr_unit": "m/s", "description": "AGV zona de carga",     "photo": null, "verifications": [], "history": [{"action":"Instalación inicial","date":"2025-03-01","ok":true}] }
   ]
 }
