@@ -46,12 +46,6 @@
   ],
   "equips": [
     {
-      "id": "e2",
-      "name": "Bracket A",
-      "icon": "🔩",
-      "group_id": "g1"
-    },
-    {
       "id": "e3",
       "name": "Palmera 1",
       "icon": "🌴",
