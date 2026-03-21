@@ -46,12 +46,6 @@
   ],
   "equips": [
     {
-      "id": "e1",
-      "name": "Prensa 1",
-      "icon": "🔧",
-      "group_id": "g1"
-    },
-    {
       "id": "e2",
       "name": "Bracket A",
       "icon": "🔩",
