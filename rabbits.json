@@ -33,12 +33,6 @@
   ],
   "subgroups": [
     {
-      "id": "sg3",
-      "name": "Palmera 1",
-      "icon": "🌴",
-      "group_id": "g1"
-    },
-    {
       "id": "sg4",
       "name": "Prensa 2",
       "icon": "🔧",
