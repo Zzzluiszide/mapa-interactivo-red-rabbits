@@ -65,28 +65,6 @@
   ],
   "rabbits": [
     {
-      "id": "r5",
-      "code": "RR-005",
-      "sg_id": "sg4",
-      "status": "ok",
-      "by": "Luis Ramírez",
-      "expiry": "2026-09-22",
-      "nextCheck": "2026-05-01",
-      "attr_name": "Voltaje",
-      "attr_val": "220",
-      "attr_unit": "V",
-      "description": "",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2024-09-22",
-          "ok": true
-        }
-      ]
-    },
-    {
       "id": "r6",
       "code": "RR-006",
       "sg_id": "sg5",
