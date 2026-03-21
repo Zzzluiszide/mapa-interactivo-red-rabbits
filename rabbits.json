@@ -35,6 +35,13 @@
       "area_id": "oficinas",
       "px": 75,
       "py": 25
+    },
+    {
+      "id": "mmzt80087iay",
+      "name": "Isla 4",
+      "area_id": "nave-a",
+      "px": 28.29967649485204,
+      "py": 61.744710817466775
     }
   ],
   "equips": [
