@@ -27,12 +27,6 @@
   ],
   "subgroups": [
     {
-      "id": "sg5",
-      "name": "Bracket 2",
-      "icon": "🔩",
-      "group_id": "g2"
-    },
-    {
       "id": "sg6",
       "name": "Estructura",
       "icon": "🏗️",
