@@ -37,13 +37,6 @@
       "py": 30
     },
     {
-      "id": "g3",
-      "name": "Isla 3",
-      "area_id": "nave-b",
-      "px": 68,
-      "py": 45
-    },
-    {
       "id": "g5",
       "name": "Isla 5",
       "area_id": "oficinas",
