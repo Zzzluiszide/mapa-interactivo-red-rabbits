@@ -1,19 +1,9 @@
 {
   "groups": [
-    {
-      "id": "mn0f2rhrv52u",
-      "name": "Isla 4",
-      "px": 21.807819675555557,
-      "py": 64.33003041616162
-    }
+    { "id": "g1", "name": "Isla 1", "px": 22, "py": 35 }
   ],
   "subgroups": [
-    {
-      "id": "mn0f3enccwp0",
-      "name": "Prensa 100",
-      "icon": "🔧",
-      "group_id": "mn0f2rhrv52u"
-    }
+    { "id": "sg1", "name": "Prensa 1",  "icon": "🔧", "group_id": "g1", "px": 18, "py": 30 }
   ],
-  "rabbits": []
-}
+  "rabbits": [
+    { "id": "r1",  "code": "RR-001", "sg_id": "sg1", "status": "ok",            "by": "Carlos Mendoza",  "expiry": "2026-08-14", "nextCheck": "2026-04-10", "attr_name": "Presión",  "attr_val": "150", "attr_unit": "psi", "description": "Extinguidor CO2 en prensa", "photo": null, "verifications": [], "history": [{"action":"Instalación inicial","date":"2024-10-01","ok":true}] }]
