@@ -29,28 +29,6 @@
   ],
   "rabbits": [
     {
-      "id": "r8",
-      "code": "RR-008",
-      "sg_id": "sg7",
-      "status": "duplicate",
-      "by": "Patricia León",
-      "expiry": "2026-10-18",
-      "nextCheck": "2026-04-18",
-      "attr_name": "Voltaje",
-      "attr_val": "480",
-      "attr_unit": "V",
-      "description": "ID dup con RR-014",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "ID duplicado",
-          "date": "2026-01-20",
-          "ok": false
-        }
-      ]
-    },
-    {
       "id": "r10",
       "code": "RR-010",
       "sg_id": "sg9",
