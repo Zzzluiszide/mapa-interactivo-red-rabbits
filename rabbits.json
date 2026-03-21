@@ -72,28 +72,6 @@
   ],
   "rabbits": [
     {
-      "id": "r3",
-      "code": "RR-003",
-      "equip_id": "e2",
-      "status": "ok",
-      "by": "Ana Torres",
-      "expiry": "2026-11-05",
-      "nextCheck": "2026-05-20",
-      "attr_name": "",
-      "attr_val": "",
-      "attr_unit": "",
-      "description": "",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2024-11-01",
-          "ok": true
-        }
-      ]
-    },
-    {
       "id": "r4",
       "code": "RR-004",
       "equip_id": "e3",
