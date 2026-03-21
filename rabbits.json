@@ -23,13 +23,6 @@
   ],
   "groups": [
     {
-      "id": "g1",
-      "name": "Isla 1",
-      "area_id": "nave-a",
-      "px": 22,
-      "py": 35
-    },
-    {
       "id": "g2",
       "name": "Isla 2",
       "area_id": "nave-a",
