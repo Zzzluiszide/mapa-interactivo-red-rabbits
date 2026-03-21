@@ -1,12 +1,6 @@
 {
   "groups": [
     {
-      "id": "g1",
-      "name": "Isla 1",
-      "px": 22,
-      "py": 35
-    },
-    {
       "id": "g2",
       "name": "Isla 2",
       "px": 50,
