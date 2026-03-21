@@ -15,12 +15,6 @@
   ],
   "subgroups": [
     {
-      "id": "sg6",
-      "name": "Estructura",
-      "icon": "🏗️",
-      "group_id": "g3"
-    },
-    {
       "id": "sg7",
       "name": "Panel EL",
       "icon": "⚡",
