@@ -15,28 +15,5 @@
       "group_id": "g5"
     }
   ],
-  "rabbits": [
-    {
-      "id": "r10",
-      "code": "RR-010",
-      "sg_id": "sg9",
-      "status": "ok",
-      "by": "Fernanda Cruz",
-      "expiry": "2026-07-01",
-      "nextCheck": "2026-04-15",
-      "attr_name": "Velocidad",
-      "attr_val": "3.5",
-      "attr_unit": "m/s",
-      "description": "AGV zona de carga",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2025-03-01",
-          "ok": true
-        }
-      ]
-    }
-  ]
+  "rabbits": []
 }
