@@ -91,28 +91,6 @@
       ]
     },
     {
-      "id": "r9",
-      "code": "RR-009",
-      "sg_id": "sg8",
-      "status": "ok",
-      "by": "Roberto Salas",
-      "expiry": "2026-08-05",
-      "nextCheck": "2026-04-01",
-      "attr_name": "",
-      "attr_val": "",
-      "attr_unit": "",
-      "description": "",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2025-05-05",
-          "ok": true
-        }
-      ]
-    },
-    {
       "id": "r10",
       "code": "RR-010",
       "sg_id": "sg9",
