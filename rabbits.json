@@ -77,28 +77,6 @@
   ],
   "rabbits": [
     {
-      "id": "r4",
-      "code": "RR-004",
-      "sg_id": "sg3",
-      "status": "not_found",
-      "by": "Luis Ramírez",
-      "expiry": "2026-04-15",
-      "nextCheck": "2026-03-25",
-      "attr_name": "Voltaje",
-      "attr_val": "220",
-      "attr_unit": "V",
-      "description": "No localizado",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "No encontrado",
-          "date": "2026-01-15",
-          "ok": false
-        }
-      ]
-    },
-    {
       "id": "r5",
       "code": "RR-005",
       "sg_id": "sg4",
