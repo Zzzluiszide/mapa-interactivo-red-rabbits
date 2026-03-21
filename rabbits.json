@@ -96,12 +96,6 @@
       "group_id": "g3"
     },
     {
-      "id": "e7",
-      "name": "Rack ALM",
-      "icon": "📦",
-      "group_id": "g4"
-    },
-    {
       "id": "e8",
       "name": "AGV-01",
       "icon": "🚗",
