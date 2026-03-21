@@ -35,28 +35,6 @@
   ],
   "rabbits": [
     {
-      "id": "r7",
-      "code": "RR-007",
-      "sg_id": "sg6",
-      "status": "ok",
-      "by": "Jorge Castillo",
-      "expiry": "2026-12-01",
-      "nextCheck": "2026-06-15",
-      "attr_name": "",
-      "attr_val": "",
-      "attr_unit": "",
-      "description": "",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2025-01-10",
-          "ok": true
-        }
-      ]
-    },
-    {
       "id": "r8",
       "code": "RR-008",
       "sg_id": "sg7",
