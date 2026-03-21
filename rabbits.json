@@ -89,28 +89,6 @@
   ],
   "rabbits": [
     {
-      "id": "r2",
-      "code": "RR-002",
-      "sg_id": "sg1",
-      "status": "damaged",
-      "by": "Carlos Mendoza",
-      "expiry": "2026-03-10",
-      "nextCheck": "2026-03-10",
-      "attr_name": "Presión",
-      "attr_val": "80",
-      "attr_unit": "psi",
-      "description": "Presión baja",
-      "photo": "https://raw.githubusercontent.com/Zzzluiszide/mapa-interactivo-red-rabbits/main/photos/RR-002.jpg?t=1774067698942",
-      "verifications": [],
-      "history": [
-        {
-          "action": "Daño detectado",
-          "date": "2026-02-01",
-          "ok": false
-        }
-      ]
-    },
-    {
       "id": "r3",
       "code": "RR-003",
       "sg_id": "sg2",
