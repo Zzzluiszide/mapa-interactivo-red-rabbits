@@ -78,28 +78,6 @@
   ],
   "rabbits": [
     {
-      "id": "r2",
-      "code": "RR-002",
-      "equip_id": "e1",
-      "status": "damaged",
-      "by": "Carlos Mendoza",
-      "expiry": "2026-03-10",
-      "nextCheck": "2026-03-10",
-      "attr_name": "Presión",
-      "attr_val": "80",
-      "attr_unit": "psi",
-      "description": "Presión baja detectada",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Daño detectado — presión baja",
-          "date": "2026-02-01",
-          "ok": false
-        }
-      ]
-    },
-    {
       "id": "r3",
       "code": "RR-003",
       "equip_id": "e2",
