@@ -33,12 +33,6 @@
   ],
   "subgroups": [
     {
-      "id": "sg1",
-      "name": "Prensa 1",
-      "icon": "🔧",
-      "group_id": "g1"
-    },
-    {
       "id": "sg2",
       "name": "Bracket 1",
       "icon": "🔩",
