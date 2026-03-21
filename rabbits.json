@@ -1,12 +1,5 @@
 {
-  "groups": [
-    {
-      "id": "g5",
-      "name": "Isla 5",
-      "px": 78,
-      "py": 22
-    }
-  ],
+  "groups": [],
   "subgroups": [],
   "rabbits": []
 }
