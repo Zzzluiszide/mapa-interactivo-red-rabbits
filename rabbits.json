@@ -61,13 +61,18 @@
       "by": "Arellano",
       "expiry": "2026-03-31",
       "nextCheck": "2026-03-31",
-      "attr_name": "Medida",
+      "attr_name": "Variable",
       "attr_unit": "mm",
       "attr_val": "560 +/-1",
       "description": "",
       "photo": null,
       "verifications": [],
       "history": [
+        {
+          "action": "Datos actualizados",
+          "date": "2026-03-22",
+          "ok": true
+        },
         {
           "action": "Instalación inicial",
           "date": "2026-03-22",
