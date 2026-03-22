@@ -1,5 +1,12 @@
 {
-  "groups": [],
+  "groups": [
+    {
+      "id": "mn22x6ef210f",
+      "name": "Isla 1",
+      "px": 21.70227617839514,
+      "py": 66.3178992281472
+    }
+  ],
   "subgroups": [],
   "rabbits": []
 }
