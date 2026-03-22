@@ -85,7 +85,7 @@
       "code": "RR-FORD-P5-GR-252",
       "sg_id": "mn247aaz3g7q0",
       "status": "duplicate",
-      "by": "Mauricio Ponce",
+      "by": "Arellano",
       "expiry": "2026-03-30",
       "nextCheck": "2026-09-30",
       "attr_name": "Atributo",
@@ -104,6 +104,11 @@
         }
       ],
       "history": [
+        {
+          "action": "Datos actualizados",
+          "date": "2026-03-22",
+          "ok": true
+        },
         {
           "action": "Datos actualizados",
           "date": "2026-03-22",
