@@ -23,14 +23,6 @@
       "group_id": "g1",
       "px": 25,
       "py": 32
-    },
-    {
-      "id": "sg3",
-      "name": "Palmera 1",
-      "icon": "🌴",
-      "group_id": "g1",
-      "px": 21,
-      "py": 41
     }
   ],
   "rabbits": [
