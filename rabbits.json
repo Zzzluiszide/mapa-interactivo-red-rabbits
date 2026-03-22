@@ -37,14 +37,6 @@
       "group_id": "g1",
       "px": 21,
       "py": 41
-    },
-    {
-      "id": "sg6",
-      "name": "Panel EL",
-      "icon": "⚡",
-      "group_id": "g3",
-      "px": 68,
-      "py": 52
     }
   ],
   "rabbits": [
