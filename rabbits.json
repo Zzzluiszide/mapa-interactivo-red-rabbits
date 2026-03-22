@@ -135,28 +135,6 @@
           "ok": false
         }
       ]
-    },
-    {
-      "id": "r7",
-      "code": "RR-007",
-      "sg_id": "sg6",
-      "status": "ok",
-      "by": "Jorge Castillo",
-      "expiry": "2026-12-01",
-      "nextCheck": "2026-06-15",
-      "attr_name": "Voltaje",
-      "attr_val": "480",
-      "attr_unit": "V",
-      "description": "",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2025-01-10",
-          "ok": true
-        }
-      ]
     }
   ]
 }
