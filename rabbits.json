@@ -74,8 +74,8 @@
       "id": "mn24acpy67bnr",
       "code": "RR-FORD-P5-GR-252",
       "sg_id": "mn247aaz3g7q0",
-      "status": "ok",
-      "by": "Arellano",
+      "status": "verified_month",
+      "by": "Mauricio Ponce",
       "expiry": "2026-03-31",
       "nextCheck": "2026-03-31",
       "attr_name": "Atributo",
@@ -83,8 +83,22 @@
       "attr_val": "",
       "description": "Sin flock A-Pillar",
       "photo": "https://raw.githubusercontent.com/Zzzluiszide/mapa-interactivo-red-rabbits/main/photos/RR-FORD-P5-GR-252.jpg?t=1774206033248",
-      "verifications": [],
+      "verifications": [
+        {
+          "result": "approved",
+          "by": "Mauricio Ponce",
+          "notes": "",
+          "date": "2026-03-22T19:01:06.995Z",
+          "month": "2026-03",
+          "photo": null
+        }
+      ],
       "history": [
+        {
+          "action": "Verificación: Aprobado/OK — Mauricio Ponce",
+          "date": "2026-03-22",
+          "ok": true
+        },
         {
           "action": "Instalación inicial",
           "date": "2026-03-22",
