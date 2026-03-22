@@ -31,16 +31,21 @@
       "code": "RR-FORD-P5-GR-250",
       "sg_id": "mn23vi6jl8shu",
       "status": "ok",
-      "by": "Mauricio Ponce",
+      "by": "Arellano",
       "expiry": "2026-03-31",
       "nextCheck": "2026-03-31",
-      "attr_name": "Variable",
-      "attr_unit": "mm",
-      "attr_val": "678.5 +/-1",
+      "attr_name": "Atributo",
+      "attr_unit": "",
+      "attr_val": "Moldeo desalineado",
       "description": "",
       "photo": "https://raw.githubusercontent.com/Zzzluiszide/mapa-interactivo-red-rabbits/main/photos/RR-FORD-P5-GR-250.jpg?t=1774206600436",
       "verifications": [],
       "history": [
+        {
+          "action": "Datos actualizados",
+          "date": "2026-03-22",
+          "ok": true
+        },
         {
           "action": "Datos actualizados",
           "date": "2026-03-22",
