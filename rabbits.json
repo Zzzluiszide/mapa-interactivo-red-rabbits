@@ -17,28 +17,5 @@
       "py": 32
     }
   ],
-  "rabbits": [
-    {
-      "id": "r3",
-      "code": "RR-003",
-      "sg_id": "sg2",
-      "status": "ok",
-      "by": "Ana Torres",
-      "expiry": "2026-11-05",
-      "nextCheck": "2026-05-20",
-      "attr_name": "",
-      "attr_val": "",
-      "attr_unit": "",
-      "description": "",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2024-11-01",
-          "ok": true
-        }
-      ]
-    }
-  ]
+  "rabbits": []
 }
