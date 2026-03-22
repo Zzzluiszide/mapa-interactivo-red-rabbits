@@ -7,6 +7,15 @@
       "py": 66.3178992281472
     }
   ],
-  "subgroups": [],
+  "subgroups": [
+    {
+      "id": "mn23vi6jl8shu",
+      "name": "Prensa 100",
+      "icon": "⚙️",
+      "group_id": "mn22x6ef210f",
+      "px": 22.153320685715187,
+      "py": 60.02940524052468
+    }
+  ],
   "rabbits": []
 }
