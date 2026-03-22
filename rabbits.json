@@ -77,7 +77,7 @@
       "status": "ok",
       "by": "Mauricio Ponce",
       "expiry": "2026-03-30",
-      "nextCheck": "2026-03-31",
+      "nextCheck": "2026-09-30",
       "attr_name": "Atributo",
       "attr_unit": "",
       "attr_val": "",
@@ -94,6 +94,11 @@
         }
       ],
       "history": [
+        {
+          "action": "Datos actualizados",
+          "date": "2026-03-22",
+          "ok": true
+        },
         {
           "action": "Datos actualizados",
           "date": "2026-03-22",
