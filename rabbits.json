@@ -140,6 +140,28 @@
           "ok": true
         }
       ]
+    },
+    {
+      "id": "mn24uv20j8vlc",
+      "code": "RR-FORD-P5-GR-253",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "Arellano",
+      "expiry": "2026-03-31",
+      "nextCheck": "2026-09-30",
+      "attr_name": "Variable",
+      "attr_unit": "mm",
+      "attr_val": "Sin flock B-Pillar",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-22",
+          "ok": true
+        }
+      ]
     }
   ]
 }
