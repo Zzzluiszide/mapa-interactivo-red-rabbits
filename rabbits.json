@@ -195,28 +195,6 @@
       ]
     },
     {
-      "id": "r6",
-      "code": "RR-006",
-      "sg_id": "sg5",
-      "status": "label_damaged",
-      "by": "Sara Villanueva",
-      "expiry": "2026-07-30",
-      "nextCheck": "2026-04-30",
-      "attr_name": "Presión",
-      "attr_val": "140",
-      "attr_unit": "psi",
-      "description": "Etiqueta dañada por calor",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Etiqueta dañada",
-          "date": "2026-02-10",
-          "ok": false
-        }
-      ]
-    },
-    {
       "id": "r7",
       "code": "RR-007",
       "sg_id": "sg6",
