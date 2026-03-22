@@ -74,7 +74,7 @@
       "id": "mn24acpy67bnr",
       "code": "RR-FORD-P5-GR-252",
       "sg_id": "mn247aaz3g7q0",
-      "status": "verified_month",
+      "status": "",
       "by": "Mauricio Ponce",
       "expiry": "2026-03-31",
       "nextCheck": "2026-03-31",
@@ -94,6 +94,11 @@
         }
       ],
       "history": [
+        {
+          "action": "Datos actualizados",
+          "date": "2026-03-22",
+          "ok": true
+        },
         {
           "action": "Verificación: Aprobado/OK — Mauricio Ponce",
           "date": "2026-03-22",
