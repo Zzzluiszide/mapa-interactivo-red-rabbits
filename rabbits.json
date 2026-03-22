@@ -51,14 +51,6 @@
       "group_id": "g3",
       "px": 68,
       "py": 52
-    },
-    {
-      "id": "sg7",
-      "name": "Rack ALM",
-      "icon": "📦",
-      "group_id": "g4",
-      "px": 32,
-      "py": 65
     }
   ],
   "rabbits": [
