@@ -59,14 +59,6 @@
       "py": 24
     },
     {
-      "id": "sg5",
-      "name": "Bracket 2",
-      "icon": "🔩",
-      "group_id": "g2",
-      "px": 54,
-      "py": 26
-    },
-    {
       "id": "sg6",
       "name": "Panel EL",
       "icon": "⚡",
