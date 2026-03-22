@@ -7,15 +7,6 @@
       "py": 35
     }
   ],
-  "subgroups": [
-    {
-      "id": "sg2",
-      "name": "Bracket 1",
-      "icon": "🔩",
-      "group_id": "g1",
-      "px": 25,
-      "py": 32
-    }
-  ],
+  "subgroups": [],
   "rabbits": []
 }
