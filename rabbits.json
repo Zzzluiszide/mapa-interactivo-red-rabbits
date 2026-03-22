@@ -51,14 +51,6 @@
       "py": 41
     },
     {
-      "id": "sg4",
-      "name": "Prensa 2",
-      "icon": "🔧",
-      "group_id": "g2",
-      "px": 46,
-      "py": 24
-    },
-    {
       "id": "sg6",
       "name": "Panel EL",
       "icon": "⚡",
