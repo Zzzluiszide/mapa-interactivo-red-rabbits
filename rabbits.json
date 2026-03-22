@@ -17,5 +17,28 @@
       "py": 55.00496916330062
     }
   ],
-  "rabbits": []
+  "rabbits": [
+    {
+      "id": "mn2418whzpq3h",
+      "code": "RR-FORD-P5-GR-250",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "Mauricio Ponce",
+      "expiry": "2026-03-31",
+      "nextCheck": "2026-03-31",
+      "attr_name": "Medida",
+      "attr_unit": "mm",
+      "attr_val": "678.5 +/-1",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-22",
+          "ok": true
+        }
+      ]
+    }
+  ]
 }
