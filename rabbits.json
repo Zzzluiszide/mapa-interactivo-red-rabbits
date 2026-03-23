@@ -36,7 +36,7 @@
     },
     {
       "id": "mn247aaz3g7q0",
-      "name": "2",
+      "name": "Prensa 207",
       "icon": "⚙️",
       "group_id": "mn22x6ef210f",
       "px": 20.920207030206466,
@@ -44,7 +44,7 @@
     },
     {
       "id": "mn3b07eisujf5",
-      "name": "6",
+      "name": "Prensa 411",
       "icon": "⚙️",
       "group_id": "mn22x6ef210f",
       "px": 20.975621926072648,
@@ -52,7 +52,7 @@
     },
     {
       "id": "mn3b1emqyuwxc",
-      "name": "9",
+      "name": "Prensa 409",
       "icon": "⚙️",
       "group_id": "mn22x6ef210f",
       "px": 21.131843524206907,
@@ -68,7 +68,7 @@
     },
     {
       "id": "mn3b38ashurwu",
-      "name": "12",
+      "name": "Prensa 405",
       "icon": "⚙️",
       "group_id": "mn22x6ef210f",
       "px": 20.879484180796457,
@@ -223,11 +223,6 @@
           "ok": true
         },
         {
-          "action": "Datos actualizados",
-          "date": "2026-03-22",
-          "ok": true
-        },
-        {
           "action": "Instalación inicial",
           "date": "2026-03-22",
           "ok": true
@@ -286,36 +281,6 @@
       ],
       "history": [
         {
-          "action": "Datos actualizados",
-          "date": "2026-03-22",
-          "ok": true
-        },
-        {
-          "action": "Datos actualizados",
-          "date": "2026-03-22",
-          "ok": true
-        },
-        {
-          "action": "Datos actualizados",
-          "date": "2026-03-22",
-          "ok": true
-        },
-        {
-          "action": "Datos actualizados",
-          "date": "2026-03-22",
-          "ok": true
-        },
-        {
-          "action": "Datos actualizados",
-          "date": "2026-03-22",
-          "ok": true
-        },
-        {
-          "action": "Datos actualizados",
-          "date": "2026-03-22",
-          "ok": true
-        },
-        {
           "action": "Verificación: Aprobado/OK — Mauricio Ponce",
           "date": "2026-03-22",
           "ok": true
@@ -350,6 +315,2646 @@
         {
           "action": "Instalación inicial",
           "date": "2026-03-22",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026118znhujhz",
+      "code": "RR-FORD-P5-GR-269",
+      "sg_id": "mn3jlki3yo4s1",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611qp0dmow3",
+      "code": "RR-FORD-P5-GR-270",
+      "sg_id": "mn3jlki3yo4s1",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611fr4wa4pc",
+      "code": "RR-FORD-P5-GR-271",
+      "sg_id": "mn3jlki3yo4s1",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611xqplwnih",
+      "code": "RR-FORD-P5-GR-272",
+      "sg_id": "mn3jlki3yo4s1",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611en9gmplk",
+      "code": "RR-FORD-P5-GR-045",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611vkk74a5h",
+      "code": "RR-FORD-P5-GR-046",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261155mygfbb",
+      "code": "RR-P415-05",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611h05nu793",
+      "code": "RR-FORD-P5-GR-208",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611ssx5yvr1",
+      "code": "RR-FORD-P5-GR-243",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611hrcnh3fo",
+      "code": "RR-FORD-P5-GR-244",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611dc23kh66",
+      "code": "RR-FORD-P5-GR-323",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611bfafmbgg",
+      "code": "RR-FORD-P5-GR-324",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026110qvjhp25",
+      "code": "RR-FORD-P5-GR-325",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611oc2ggrfi",
+      "code": "RR-FORD-P5-GR-326",
+      "sg_id": "mn247aaz3g7q0",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611wwci6bxr",
+      "code": "RR-FORD-P5-GR-097",
+      "sg_id": "mn3btsp78boeu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611r0y3lgcp",
+      "code": "RR-FORD-P5-GR-098",
+      "sg_id": "mn3btsp78boeu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026115gavtax4",
+      "code": "RR-FORD-P5-GR-099",
+      "sg_id": "mn3btsp78boeu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026116ypx0x6q",
+      "code": "RR-FORD-P5-GR-100",
+      "sg_id": "mn3btsp78boeu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611md9tzuih",
+      "code": "RR-FORD-P5-GR-265",
+      "sg_id": "mn3btsp78boeu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611cwaypjdz",
+      "code": "RR-FORD-P5-GR-101",
+      "sg_id": "mn3bu30xq0tdi",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611vde0wamd",
+      "code": "RR-FORD-P5-GR-102",
+      "sg_id": "mn3bu30xq0tdi",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611lwuq7gpy",
+      "code": "RR-FORD-P5-GR-103",
+      "sg_id": "mn3bu30xq0tdi",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302611gu583x5t",
+      "code": "RR-FORD-P5-GR-104",
+      "sg_id": "mn3bu30xq0tdi",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026115651hxqr",
+      "code": "RR-FORD-P5-GR-254",
+      "sg_id": "mn3bu30xq0tdi",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261183m5r6d9",
+      "code": "RR-FORD-P5-GR-266",
+      "sg_id": "mn3bu30xq0tdi",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612l8dblvnn",
+      "code": "RR-FORD-P5-GR-274",
+      "sg_id": "mn3buuku3pm20",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612prqyhryr",
+      "code": "RR-FORD-P5-GR-041",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612jra40xsf",
+      "code": "RR-FORD-P5-GR-042",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026122rbf5dhy",
+      "code": "RR-FORD-P5-GR-044",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612tbis35it",
+      "code": "RR-FORD-P5-GR-047",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026125hnoodhp",
+      "code": "RR-FORD-P5-GR-206",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612hzirxot3",
+      "code": "RR-P413-05",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612pu0v3ww9",
+      "code": "RR-FORD-P5-GR-219",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261256tdzs2e",
+      "code": "RR-FORD-P5-GR-220",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612hay1yjdp",
+      "code": "RR-411-05",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612y0842syy",
+      "code": "RR-FORD-P5-GR-228",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612zn85udb3",
+      "code": "RR-FORD-P5-GR-239",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612fmjuj5nm",
+      "code": "RR-FORD-P5-GR-240",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612u8n7bw39",
+      "code": "RR-FORD-P5-GR-241",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612gzjx4925",
+      "code": "RR-FORD-P5-GR-242",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612kka4s6ay",
+      "code": "RR-FORD-P5-GR-327",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612wacbh6sw",
+      "code": "RR-FORD-P5-GR-328",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612h27fg8fa",
+      "code": "RR-FORD-P5-GR-329",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026128h15qift",
+      "code": "RR-FORD-P5-GR-330",
+      "sg_id": "mn23vi6jl8shu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612ntqvdmxb",
+      "code": "RR-FORD-P5-GR-189",
+      "sg_id": "mn3b87a6j9xto",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612kiuixfxq",
+      "code": "RR-FORD-P5-GR-190",
+      "sg_id": "mn3b87a6j9xto",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612gt1xx7xk",
+      "code": "RR-FORD-P5-GR-191",
+      "sg_id": "mn3b87a6j9xto",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612amjb8c27",
+      "code": "RR-FORD-P5-GR-192",
+      "sg_id": "mn3b87a6j9xto",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026124jouqzk5",
+      "code": "RR-FORD-P5-GR-237",
+      "sg_id": "mn3bv4f86z76a",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026126tju0l8j",
+      "code": "RR-FORD-P5-GR-193",
+      "sg_id": "mn3b8qldl4ukt",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026125szr9rci",
+      "code": "RR-FORD-P5-GR-194",
+      "sg_id": "mn3b8qldl4ukt",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612vlf67e2u",
+      "code": "RR-FORD-P5-GR-195",
+      "sg_id": "mn3b8qldl4ukt",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612o46lubwj",
+      "code": "RR-FORD-P5-GR-196",
+      "sg_id": "mn3b8qldl4ukt",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612nuk9rvb2",
+      "code": "RR-FORD-P5-GR-043",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612yh57oo04",
+      "code": "RR-FORD-P5-GR-048",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612ezzst33f",
+      "code": "RR-FORD-P5-GR-053",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612tn7pco22",
+      "code": "RR-FORD-P5-GR-054",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612cihobdmr",
+      "code": "RR-FORD-P5-GR-179",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612tgcptzg7",
+      "code": "RR-FORD-P5-GR-180",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026129il3a6xy",
+      "code": "RR-FORD-P5-GR-215",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612b0hat7mk",
+      "code": "RR-FORD-P5-GR-216",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612zktp08lp",
+      "code": "RR-FORD-P5-GR-217",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026121v086iom",
+      "code": "RR-FORD-P5-GR-223",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612nafwjfce",
+      "code": "RR-P409-05",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612awa7hbax",
+      "code": "RR-FORD-P5-GR-226",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261255wsmdht",
+      "code": "RR-FORD-P5-GR-232",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612xzge0yzr",
+      "code": "RR-FORD-P5-GR-235",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026120hpuybgj",
+      "code": "RR-FORD-P5-GR-238",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026129y16lzu5",
+      "code": "RR-FORD-P5-GR-247",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026127zusx19j",
+      "code": "RR-FORD-P5-GR-249",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612a54639o9",
+      "code": "RR-FORD-P5-GR-321",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612g4zbysrx",
+      "code": "RR-FORD-P5-GR-322",
+      "sg_id": "mn3b1emqyuwxc",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612nhwwgx97",
+      "code": "RR-FORD-P5-GR-050",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612hcmf36tj",
+      "code": "RR-FORD-P5-GR-051",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612xcbiruj2",
+      "code": "RR-FORD-P5-GR-055",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612hpraio12",
+      "code": "RR-FORD-P5-GR-056",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261225g5beat",
+      "code": "RR-FORD-P5-GR-213",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612ttdxaxpx",
+      "code": "RR-FORD-P5-GR-214",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612itomdvwk",
+      "code": "RR-P405-05",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026128rydl7oi",
+      "code": "RR-P407-05",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261233kagd1g",
+      "code": "RR-FORD-P5-GR-229",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612bft1uf14",
+      "code": "RR-FORD-P5-GR-230",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026124icryx1d",
+      "code": "RR-FORD-P5-GR-222",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261254ptupna",
+      "code": "RR-FORD-P5-GR-234",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612i0lfx2f1",
+      "code": "RR-FORD-P5-GR-236",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612ww0o7due",
+      "code": "RR-FORD-P5-GR-245",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612nzpjwit2",
+      "code": "RR-FORD-P5-GR-246",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026125v40tnkl",
+      "code": "RR-FORD-P5-GR-248",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612cwe8a5ev",
+      "code": "RR-FORD-P5-GR-331",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261282ed03l4",
+      "code": "RR-FORD-P5-GR-332",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026121wthch6c",
+      "code": "RR-FORD-P5-GR-333",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026120kx3jbjc",
+      "code": "RR-FORD-P5-GR-334",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612bf6que0g",
+      "code": "RR-FORD-P5-GR-335",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612nhe1ac7j",
+      "code": "RR-FORD-P5-GR-339",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612gu93ry63",
+      "code": "RR-FORD-P5-GR-340",
+      "sg_id": "mn3b38ashurwu",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261263kylpa3",
+      "code": "RR-FORD-P5-GR-181",
+      "sg_id": "mn3b94f66g4kq",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612iwbbr54l",
+      "code": "RR-FORD-P5-GR-182",
+      "sg_id": "mn3b94f66g4kq",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026127zd8yeo5",
+      "code": "RR-FORD-P5-GR-183",
+      "sg_id": "mn3b94f66g4kq",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612t5slhb2s",
+      "code": "RR-FORD-P5-GR-184",
+      "sg_id": "mn3b94f66g4kq",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612cymj29uu",
+      "code": "RR-FORD-P5-GR-105",
+      "sg_id": "mn3jifiew967h",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026120bj97g50",
+      "code": "RR-FORD-P5-GR-106",
+      "sg_id": "mn3jifiew967h",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612ygq85r7b",
+      "code": "RR-FORD-P5-GR-107",
+      "sg_id": "mn3jifiew967h",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026124brjct3v",
+      "code": "RR-FORD-P5-GR-108",
+      "sg_id": "mn3jifiew967h",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612v432uun2",
+      "code": "RR-FORD-P5-GR-255",
+      "sg_id": "mn3jifiew967h",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261210im5qs4",
+      "code": "RR-FORD-P5-GR-267",
+      "sg_id": "mn3jifiew967h",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612fw54o498",
+      "code": "RR-FORD-P5-GR-109",
+      "sg_id": "mn3jiqz71gwh4",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612hefcj2cj",
+      "code": "RR-FORD-P5-GR-110",
+      "sg_id": "mn3jiqz71gwh4",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612hu9uw45k",
+      "code": "RR-FORD-P5-GR-111",
+      "sg_id": "mn3jiqz71gwh4",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612ng5da9iv",
+      "code": "RR-FORD-P5-GR-112",
+      "sg_id": "mn3jiqz71gwh4",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612tkn4gmri",
+      "code": "RR-FORD-P5-GR-256",
+      "sg_id": "mn3jiqz71gwh4",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026120qgpx0z2",
+      "code": "RR-FORD-P5-GR-268",
+      "sg_id": "mn3jiqz71gwh4",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612iodcgx5l",
+      "code": "RR-FORD-P5-GR-185",
+      "sg_id": "mn3b9n8mjb0dr",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612uy7pdd2f",
+      "code": "RR-FORD-P5-GR-186",
+      "sg_id": "mn3b9n8mjb0dr",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c3026121rbflfjj",
+      "code": "RR-FORD-P5-GR-187",
+      "sg_id": "mn3b9n8mjb0dr",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612f818a8rw",
+      "code": "RR-FORD-P5-GR-188",
+      "sg_id": "mn3b9n8mjb0dr",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612h3n7n1ux",
+      "code": "RR-FORD-P5-GR-052",
+      "sg_id": "mn3bsxy25m9yb",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612c4fpmz1q",
+      "code": "RR-FORD-P5-GR-221",
+      "sg_id": "mn3bsxy25m9yb",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612z2yog7jj",
+      "code": "RR-FORD-P5-GR-336",
+      "sg_id": "mn3bsxy25m9yb",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c30261247xdet21",
+      "code": "RR-FORD-P5-GR-337",
+      "sg_id": "mn3bsxy25m9yb",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "19d1c302612ego1uirc",
+      "code": "RR-FORD-P5-GR-338",
+      "sg_id": "mn3bsxy25m9yb",
+      "status": "ok",
+      "by": "",
+      "expiry": "",
+      "nextCheck": "",
+      "attr_name": "",
+      "attr_unit": "",
+      "attr_val": "",
+      "description": "",
+      "photo": null,
+      "verifications": [],
+      "history": [
+        {
+          "action": "Instalación inicial",
+          "date": "2026-03-23",
           "ok": true
         }
       ]
