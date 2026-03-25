@@ -277,6 +277,14 @@
       "group_id": "mn3jnk9sj5otg",
       "px": 7.999071194293143,
       "py": 60.6534163997854
+    },
+    {
+      "id": "mn6gau34t7ktk",
+      "name": "Ejemplo",
+      "icon": "⚙️",
+      "group_id": "mn6gaj64wsgjx",
+      "px": 28.562831467890703,
+      "py": 14.847281967470819
     }
   ],
   "rabbits": [
