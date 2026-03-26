@@ -3102,28 +3102,6 @@
       ]
     },
     {
-      "id": "19d1c302612iodcgx5l",
-      "code": "RR-FORD-P5-GR-185",
-      "sg_id": "mn3b9n8mjb0dr",
-      "status": "ok",
-      "by": "",
-      "expiry": "",
-      "nextCheck": "",
-      "attr_name": "",
-      "attr_unit": "",
-      "attr_val": "",
-      "description": "",
-      "photo": null,
-      "verifications": [],
-      "history": [
-        {
-          "action": "Instalación inicial",
-          "date": "2026-03-23",
-          "ok": true
-        }
-      ]
-    },
-    {
       "id": "19d1c302612uy7pdd2f",
       "code": "RR-FORD-P5-GR-186",
       "sg_id": "mn3b9n8mjb0dr",
